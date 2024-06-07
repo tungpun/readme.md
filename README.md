@@ -31,4 +31,5 @@
 
 - **GitHub**: [tungpun](https://github.com/tungpun)
 - **Medium**: [tungpun](https://medium.com/@tungpun)
+- **Digital Garden**: [Tung Pun's Garden](https://tungpun.notion.site/Digital-Garden-b9063b5faff4414c99916605135a0898?pvs=4)
 
